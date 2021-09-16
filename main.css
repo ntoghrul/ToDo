@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    
+   
+}
+i{
+    color:rgb(4, 122, 4) !important;
+}
+body{
+    background-color: rgb(216, 213, 213);
+    font-family:'Times New Roman', serif;
+}
