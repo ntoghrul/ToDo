@@ -83,6 +83,7 @@ function showAlert(type,message){
     const alert=document.createElement("div");
     alert.className=`alert alert-${type}`;
     alert.textContent=message;
+    alert.id="nigar";
     alert.style.width="30.2rem";
      di.appendChild(alert);
 
