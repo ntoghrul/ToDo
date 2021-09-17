@@ -22,7 +22,7 @@ h4{
 #di, #dal, h3, form, h4, ul,hr{
     width:18rem !important;
     position:relative !important;
-    left:-80px !important;
+    left:-40px !important;
 
 }
 h4.har{
@@ -31,24 +31,30 @@ h4.har{
 button{
     top:-30px;
     
-    left:237px !important;
+    left:235px !important;
 }
 #clear-todos{
-    left:127px !important;
+    left:165px !important;
 
 }
-h3{
-    left:0px !important;
-}
+
 hr{
-    left:10px !important;
+    left:-3px !important;
+    width:19rem !important;
 }
 hr.hra{
-    left:-70px !important;
-    width:287px !important;
+    left:-45px !important;
+    width:305px !important;
 }
 #nigar{
     width:300px !important;
     position:relative !important;
-    left:-80px !important;
+    left:-45px !important;
+}
+h3{
+
+    left:0px !important;
+}
+div.bal{
+    width:8rem !important;
 }
